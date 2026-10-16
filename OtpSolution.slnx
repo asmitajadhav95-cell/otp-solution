@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Otp.Api/Otp.Api.csproj" />
+    <Project Path="src/Otp.Application/Otp.Application.csproj" />
+    <Project Path="src/Otp.Domain/Otp.Domain.csproj" />
+    <Project Path="src/Otp.Infrastructure/Otp.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Otp.UnitTests/Otp.UnitTests.csproj" />
+  </Folder>
+</Solution>
